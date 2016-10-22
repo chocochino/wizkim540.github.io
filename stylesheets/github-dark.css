@@ -95,12 +95,12 @@ SOFTWARE.
 
 .pl-mi /* markup.italic */ {
   font-style: italic;
-  color: #ddd;
+  color: #b5e853;
 }
 
 .pl-mb /* markup.bold */ {
   font-weight: bold;
-  color: #ddd;
+  color: #b5e853;
 }
 
 .pl-md /* markup.deleted, meta.diff.header.from-file */ {
